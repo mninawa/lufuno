@@ -31,6 +31,8 @@ export NVM_DIR="$HOME/.nvm"
 nvm install v18.20.2
 node -v
 
+your_domain ="blue.felidaen.co"
+app_name="Doctor"
 # Set up application configuration
 read -p "Your sub-domain (admin.yourdomain.com): " your_domain
 
